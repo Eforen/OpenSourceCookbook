@@ -10,8 +10,8 @@
 * 2½- 3 lbs. boneless skinless chicken, cut into 2" pieces (breasts or thighs) 
 * 1 onion diced
 * 3 cloves garlic, chopped
-* 2 tsp curry powder
-* 2 tsp garam masala (found in most grocery store's spice section)
+* 2 tsp curry powder **Try 1.25 tsp next time**
+* 2 tsp garam masala (found in most grocery store's spice section) **Try 1.25 tsp next time**
 * 1 tsp cumin
 * ½ tsp cayenne powder
 * ½ tsp ground ginger (or 1"inch knob fresh ginger, minced)
@@ -19,7 +19,7 @@
 * 1 6 oz. can tomato paste
 * salt, to taste **(try using 1 tsp next time)**
 
-### optionals
+### Optionals
 * 3-4 drops liquid smoke (found in most grocery stores, gives the chicken a smokey Tandori type flavor)
 * ½ cup low-fat plain yogurt (optional)
 * cilantro, chopped (for garnish) (optional)
@@ -34,7 +34,7 @@
 
 # Notes
 
-## perperations
+## Perperations
 1. First time by the recipe 
     * The intensity of the spices overwhelmed the flavors.
     * The aromaz smelled amazing while cooking
