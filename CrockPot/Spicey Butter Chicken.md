@@ -42,3 +42,4 @@
     * Next time I am going to try half the spices in recipe. 
     * Looking over the recipe I realized I may have added a tablespoon of cayenne instead of a half teaspoon
     * Next time I should try 1.25 tsp of curry powder and masala
+    * Might be really well accompanied by some naan bread
