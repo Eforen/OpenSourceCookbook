@@ -36,9 +36,9 @@
 
 ## perperations
 1. First time by the recipe 
-  * The intensity of the spices overwhelmed the flavors.
-  * The aromaz smelled amazing while cooking
-  * The spice was slightly too strong for me and completely overpowered my partner's pallet
-  * Next time I am going to try half the spices in recipe. 
-  * Looking over the recipe I realized I may have added a tablespoon of cayenne instead of a half teaspoon
-  * Next time I should try 1.25 tsp of curry powder and masala
+    * The intensity of the spices overwhelmed the flavors.
+    * The aromaz smelled amazing while cooking
+    * The spice was slightly too strong for me and completely overpowered my partner's pallet
+    * Next time I am going to try half the spices in recipe. 
+    * Looking over the recipe I realized I may have added a tablespoon of cayenne instead of a half teaspoon
+    * Next time I should try 1.25 tsp of curry powder and masala
