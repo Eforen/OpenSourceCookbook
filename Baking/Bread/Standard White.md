@@ -25,7 +25,7 @@ Simple Every Day Bread
 * Bread Pans (Ideally Non Stick)
 
 ### Baker's Percentages
-For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bread-calculator/) I found. Current State of this recipe is at [this link](https://foodgeek.dk/en/bread-calculator/?n=%26lt%3BBread%26gt%3B&a=%26lt%3BAuthor%26gt%3B&s0=Dough&s0t=d&s0i0w=1600&s0i0t=f&s0i0n=All-Purpose%2520Flour&s0i1w=1040&s0i1t=d&s0i1n=Water&s0i2w=112&s0i2t=u&s0i2n=Sugar&s0i3w=62&s0i3t=a&s0i3n=Oil&s0i4w=44&s0i4t=y&s0i4n=Active%2520Yeast&s0i5w=24&s0i5t=t&s0i5n=Kosher%2520Salt&s0i6w=210&s0i6t=a&s0i6n=Butter&u=&nt=)
+For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bread-calculator/) I found. Current State of this recipe is at this link
 
 #### Baker's Totals
 | | % |
@@ -36,7 +36,7 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
 | Salt | 1.5% |
 
 #### Per Ingredient
-|  | % | 2 Lofe | 4 Lofe |
+|  | % | [2 Lofe](https://foodgeek.dk/en/bread-calculator/?n=%26lt%3BBread%26gt%3B&a=%26lt%3BAuthor%26gt%3B&s0=Dough&s0t=d&s0i0w=800&s0i0t=f&s0i0n=All-Purpose%2520Flour&s0i1w=520&s0i1t=d&s0i1n=Water&s0i2w=56&s0i2t=u&s0i2n=Sugar&s0i3w=31&s0i3t=a&s0i3n=Oil&s0i4w=22&s0i4t=y&s0i4n=Active%2520Yeast&s0i5w=12&s0i5t=t&s0i5n=Kosher%2520Salt&s0i6w=105&s0i6t=a&s0i6n=Butter&u=&nt=) | [4 Lofe](https://foodgeek.dk/en/bread-calculator/?n=%26lt%3BBread%26gt%3B&a=%26lt%3BAuthor%26gt%3B&s0=Dough&s0t=d&s0i0w=1600&s0i0t=f&s0i0n=All-Purpose%2520Flour&s0i1w=1040&s0i1t=d&s0i1n=Water&s0i2w=112&s0i2t=u&s0i2n=Sugar&s0i3w=62&s0i3t=a&s0i3n=Oil&s0i4w=44&s0i4t=y&s0i4n=Active%2520Yeast&s0i5w=24&s0i5t=t&s0i5n=Kosher%2520Salt&s0i6w=210&s0i6t=a&s0i6n=Butter&u=&nt=) |
 | - | - | - | - |
 | Total Dough | - | 1521g | 3048g |
 | Lofe Dough | - | 860.5g | 762g |
