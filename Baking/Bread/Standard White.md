@@ -35,8 +35,8 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
 | | % |
 | - | - |
 | Hydration | 65% |
-| Fat | 65% |
 | Sugar | 7% |
+| Fat | 3.9% |
 | Salt | 1.5% |
 
 #### Per Ingredient
