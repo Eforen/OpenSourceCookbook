@@ -6,8 +6,10 @@ Simple Every Day Bread
 - [Yeild 4 of Bread Pan Lofes](#yeild-4-of-bread-pan-lofes)
   - [Equipment](#equipment)
     - [Baker's Percentages](#bakers-percentages)
+      - [Version 0.2](#version-02)
       - [Baker's Totals](#bakers-totals)
       - [Per Ingredient](#per-ingredient)
+          - [Note: Exact grams of 2 pounds is 907.18474g](#note-exact-grams-of-2-pounds-is-90718474g)
     - [Optionals](#optionals)
   - [Perperations](#perperations)
   - [Steps](#steps)
@@ -27,6 +29,8 @@ Simple Every Day Bread
 ### Baker's Percentages
 For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bread-calculator/) I found. Current State of this recipe is at this link
 
+#### Version 0.2
+
 #### Baker's Totals
 | | % |
 | - | - |
@@ -36,17 +40,19 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
 | Salt | 1.5% |
 
 #### Per Ingredient
-|  | % | [2 Lofe](https://foodgeek.dk/en/bread-calculator/?n=%26lt%3BBread%26gt%3B&a=%26lt%3BAuthor%26gt%3B&s0=Dough&s0t=d&s0i0w=800&s0i0t=f&s0i0n=All-Purpose%2520Flour&s0i1w=520&s0i1t=d&s0i1n=Water&s0i2w=56&s0i2t=u&s0i2n=Sugar&s0i3w=31&s0i3t=a&s0i3n=Oil&s0i4w=22&s0i4t=y&s0i4n=Active%2520Yeast&s0i5w=12&s0i5t=t&s0i5n=Kosher%2520Salt&s0i6w=105&s0i6t=a&s0i6n=Butter&u=&nt=) | [4 Lofe](https://foodgeek.dk/en/bread-calculator/?n=%26lt%3BBread%26gt%3B&a=%26lt%3BAuthor%26gt%3B&s0=Dough&s0t=d&s0i0w=1600&s0i0t=f&s0i0n=All-Purpose%2520Flour&s0i1w=1040&s0i1t=d&s0i1n=Water&s0i2w=112&s0i2t=u&s0i2n=Sugar&s0i3w=62&s0i3t=a&s0i3n=Oil&s0i4w=44&s0i4t=y&s0i4n=Active%2520Yeast&s0i5w=24&s0i5t=t&s0i5n=Kosher%2520Salt&s0i6w=210&s0i6t=a&s0i6n=Butter&u=&nt=) |
-| - | - | - | - |
-| Total Dough | - | 1521g | 3048g |
-| Lofe Dough | - | 860.5g | 762g |
-| Flour | 100% | 800g | 1600g |
-| Water | 60% | 520g | 1040g |
-| Sugar | 7% | 55g | 112g |
-| Oil | 3.8% | 31g | 62g |
-| Active Yeast | 2.8% | 22g | 44g |
-| Kosher Salt | 1.5% | 12g | 24g |
-| Butter | 13.1% | 105g | 210g |
+|  | % | 1x Lofe | 2x Lofe | 4x Lofe |
+| - | - | - | - | - |
+| Lofe Pan Size | - | 2lb | 2lb | 1.5lb |
+| Total Dough | - | 907g | 1814g | 2838g |
+| Lofe Dough | - | 907g | 907g | 709.5g |
+| Flour | 100% | 511g | 1022g| 1600g |
+| Water | 60% | 332g | 664g | 1040g |
+| Sugar | 7% | 36g | 72g | 112g |
+| Oil | 3.8% | 20g | 40g | 62g |
+| Active Yeast | 2.8% | 1g | 2g | 4g |
+| Kosher Salt | 1.5% | 8g | 16g | 24g |
+
+###### Note: Exact grams of 2 pounds is 907.18474g
 
 ### Optionals
 * 
@@ -72,3 +78,7 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
 1. First Attempt at this recipe trying to recover my bread recipe
    * This worked fairly well but it was a little more dence then I want
    * I will try going up to a 17% fat and 1.5% salt and a hydration of 65% next time
+2. 2nd attempt at this recipe
+   * Taste was good
+   * Under did not kneed 2 of the lofes enough (I need to kneed them much more)
+   * The bread fell apart to easy I believe there was to much fat % in the recipe I only used 190g butter for the 4 lofes so I think maybe I should go down to around 95g butter and leave the oil about the same
