@@ -40,17 +40,17 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
 | Salt | 1.5% |
 
 #### Per Ingredient
-|  | % | 1x Lofe | 2x Lofe | 4x Lofe |
-| - | - | - | - | - |
-| Lofe Pan Size | - | 2lb | 2lb | 1.5lb |
-| Total Dough | - | 907g | 1814g | 2838g |
-| Lofe Dough | - | 907g | 907g | 709.5g |
-| Flour | 100% | 511g | 1022g| 1600g |
-| Water | 60% | 332g | 664g | 1040g |
-| Sugar | 7% | 36g | 72g | 112g |
-| Oil | 3.8% | 20g | 40g | 62g |
-| Active Yeast | 2.8% | 1g | 2g | 4g |
-| Kosher Salt | 1.5% | 8g | 16g | 24g |
+|  | % | 1x Lofe | 2x Lofe | 3x Lofe | 4x Lofe |
+| - | - | - | - | - | - |
+| Lofe Pan Size | - | 2lb | 2lb  | 2lb | 1.5lb |
+| Total Dough | - | 907g | 1814g | 4843g | 2838g |
+| Lofe Dough | - | 907g | 907g| 1614g | 709.5g |
+| Flour | 100% | 511g | 1022g| 2722g | 1600g |
+| Water | 60% | 332g | 664g | 1768g | 1040g |
+| Sugar | 7% | 36g | 72g | 192g | 112g |
+| Oil | 3.8% | 20g | 40g | 107g | 62g |
+| Active Yeast | 2.8% | 1g | 2g | 11g | 4g |
+| Kosher Salt | 1.5% | 8g | 16g | 43g | 24g |
 
 ###### Note: Exact grams of 2 pounds is 907.18474g
 
@@ -82,3 +82,7 @@ For recalculating these there is a handy [calculator](https://foodgeek.dk/en/bre
    * Taste was good
    * Under did not kneed 2 of the lofes enough (I need to kneed them much more)
    * The bread fell apart to easy I believe there was to much fat % in the recipe I only used 190g butter for the 4 lofes so I think maybe I should go down to around 95g butter and leave the oil about the same
+3. 1st attempt with 2lb dough pans
+   * Kneeded for 10 minutes
+   * Yeast did not proff well
+   * Lofes where undersized
