@@ -1,5 +1,7 @@
 # Chicken Katsu
 
+Originally from [this video](https://www.youtube.com/watch?v=EC8V5IEDsbA)
+
 ![Chicken Katsu](https://www.marionskitchen.com/wp-content/uploads/2019/02/Oven-baked-Chicken-Katsu-4-e1552634909722.jpg)
 
 ## Ingredients
